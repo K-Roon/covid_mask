@@ -1,5 +1,16 @@
-# covid_mask
+# covid19mask
 
-발견된 버그
+This is COVID-19 MASK API
 
-1. API 미구현 (이는 공적마스크 폐지로 인해서 API가 미제공 됨에따라 어쩔 수 없이 구현이 불가능함을 알립니다)
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
